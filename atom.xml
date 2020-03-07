@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guowanhui.github.io/</id>
     <title>走向未来</title>
-    <updated>2020-03-07T15:44:30.943Z</updated>
+    <updated>2020-03-07T15:46:54.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guowanhui.github.io/"/>
     <link rel="self" href="https://guowanhui.github.io/atom.xml"/>
@@ -113,11 +113,11 @@ Gridea支持的就是第二中方法用=和-表示两级标题，一级标题在
 <blockquote>
 <p>第一层嵌套</p>
 <blockquote>
-<p>第二层嵌套<br>
-  区块中可以使用列表，列表也可以使用区块，但是要在列表项目内放进区块，那么就需要在 &gt; 前添加四个空格的缩进。</p>
+<p>第二层嵌套</p>
 </blockquote>
 </blockquote>
 </blockquote>
+<p>  区块中可以使用列表，列表也可以使用区块，但是要在列表项目内放进区块，那么就需要在 &gt; 前添加四个空格的缩进。</p>
 <h2 id="9-公式-流程图">9、公式、流程图</h2>
 <p>  插入数学公式时，可以使用两个美元符 $$ 包裹 TeX 或 LaTeX 格式的数学公式来实现,快捷键是CTRL+SHIFT+M,这里我们借鉴网上已有的公式：<br>
 <code>$$</code><br>
