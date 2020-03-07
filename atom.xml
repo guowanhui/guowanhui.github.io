@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guowanhui.github.io/</id>
     <title>走向未来</title>
-    <updated>2020-03-07T16:10:00.364Z</updated>
+    <updated>2020-03-07T16:11:30.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guowanhui.github.io/"/>
     <link rel="self" href="https://guowanhui.github.io/atom.xml"/>
@@ -25,7 +25,7 @@
 1、标题的写法</h2>
 <p>  第一种方法用#加上标题名称的方法来表示标题，几级标题就加几个#号，但是在Gridea预览的时候发现不行，有图为证。<br>
 <img src="https://guowanhui.github.io//post-images/1583589708038.PNG" alt="" loading="lazy"><br>
-Gridea支持的就是第二中方法用=和-表示两级标题，一级标题在文字下方打等号，二级标题打减号，而且段落之间需要空一行，否则会默认==或者--前面的文字都是标题。</p>
+  Gridea支持的就是第二中方法用=和-表示两级标题，一级标题在文字下方打等号，二级标题打减号，而且段落之间需要空一行，否则会默认==或者--前面的文字都是标题。</p>
 <h1 id="我展示的是一级标题">我展示的是一级标题</h1>
 <h2 id="我展示的是二级标题">============<br>
 我展示的是二级标题</h2>
