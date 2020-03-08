@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guowanhui.github.io/</id>
     <title>走向未来</title>
-    <updated>2020-03-08T02:16:42.976Z</updated>
+    <updated>2020-03-08T02:21:18.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guowanhui.github.io/"/>
     <link rel="self" href="https://guowanhui.github.io/atom.xml"/>
@@ -39,7 +39,7 @@
 <h2 id="5-插入图片-网址">5、插入图片、网址</h2>
 <p>  使用![名称](图片链接)，就可以将网络上的图片直接链接过来，建议使用火狐或者谷歌浏览器，要不然粘贴不了图片地址的。插入本地图片，直接就用右侧辅助功能里的插入图片就行了。插入网址的话，方法跟插入图片一样，只要把感叹号去掉就行。比较奇怪的就是B站网址在微信中打开会被拦截。</p>
 <h2 id="6-代码块-删除线-列表">6、代码块、删除线、列表</h2>
-<p>  <code>代码块标注</code>的话使用Gridea自带的Toggle   code  span,右击鼠标或者快捷方式CTRL+`。 删除线可以在前后各加上两个~~就可以~~,也可以用Toggle  strikethrough或者快捷键CTRL+S。有序列表直接加数字就行，无序列表使用-加文字，也可以直接用CTRL+L。</p>
+<p>  代码块标注的话使用Gridea自带的Toggle   code  span,右击鼠标或者快捷方式CTRL+`。 删除线可以在前后各加上两个~~就可以~~,也可以用Toggle  strikethrough或者快捷键CTRL+S。有序列表直接加数字就行，无序列表使用-加文字，也可以直接用CTRL+L。</p>
 <h2 id="7-表格">7、表格</h2>
 <p>  Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔表头和其他行。<br>
 语法格式如下：<br>
@@ -139,7 +139,7 @@ ${$tep1}{\style{visibility:hidden}{(x+1)(x+1)}}
 </p>
 <p>  但是显示不出结果，可能不支持也可能语法不对，流程图也存在同样的问题。</p>
 <h1 id="总结">总结</h1>
-<p>  目前Gridea比较小众的，功能也还在完善当中，官网上主要是介绍前期网站的搭建，对于如何使用Gridea建设网站描述的较少，所以希望我的文章对像纯小白有所帮助。文章存在一个问题，为什么我从网上粘贴的图像地址那么长？是因为没有用谷歌么？</p>
+<p>  目前Gridea比较小众的，功能也还在完善当中，官网上主要是介绍前期网站的搭建，对于如何使用Gridea建设网站描述的较少，所以希望我的文章对纯小白有所帮助。文章存在一个问题，为什么我从网上粘贴的图像地址那么长？是因为没有用谷歌么？</p>
 ]]></content>
     </entry>
 </feed>
