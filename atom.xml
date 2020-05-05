@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guowanhui.github.io/</id>
     <title>走向未来</title>
-    <updated>2020-03-08T02:21:18.434Z</updated>
+    <updated>2020-05-05T12:06:18.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guowanhui.github.io/"/>
     <link rel="self" href="https://guowanhui.github.io/atom.xml"/>
@@ -10,6 +10,59 @@
     <logo>https://guowanhui.github.io/images/avatar.png</logo>
     <icon>https://guowanhui.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 走向未来</rights>
+    <entry>
+        <title type="html"><![CDATA[# 若是因为经济拮据不得已可使用以下方法：]]></title>
+        <id>https://guowanhui.github.io/post/ruo-shi-yin-wei-jing-ji-jie-ju-bu-de-yi-ke-shi-yong-yi-xia-fang-fa/</id>
+        <link href="https://guowanhui.github.io/post/ruo-shi-yin-wei-jing-ji-jie-ju-bu-de-yi-ke-shi-yong-yi-xia-fang-fa/">
+        </link>
+        <updated>2020-05-05T12:04:50.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>
+<p>先下载压缩包解压后得到jetbrains-agent.jar，把它放到你认为合适的⽂件夹内。<br>
+<strong>下载⻚⾯：</strong><a href="https://download.csdn.net/download/qq_44777811/12388653">https://pan.baidu.com/s/1P9etzeDTYqFaBtsu_st5og</a>  <strong>提取码：qsw0</strong></p>
+</li>
+<li>
+<p>启动你的pycharm，如果上来就需要注册，选择：试⽤（Evaluate for free）进⼊IDE。</p>
+</li>
+<li>
+<p>点击你要注册的IDE菜单： Configure 或 Help -&gt; Edit Custom VM Options ...<br>
+如果提示是否要创建⽂件，请点 Yes 。<br>
+<img src="https://img-blog.csdnimg.cn/20200505170644526.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0Nzc3ODEx,size_16,color_FFFFFF,t_70" alt="参考⽂章：https://intellij-support.jetbrains.com/hc/en-us/articles/206544869" loading="lazy"></p>
+</li>
+<li>
+<p>在打开的vmoptions编辑窗⼝末⾏添加： -javaagent:/absolute/path/to/jetbrains-agent.jar⼀定要⾃⼰确认好路径(不要使⽤中⽂路径)，填错会导致IDE打不开！！！最好使⽤绝对路径<img src="https://img-blog.csdnimg.cn/20200505173712361.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0Nzc3ODEx,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></p>
+</li>
+</ul>
+<p>⼀个vmoptions内只能有⼀个 -javaagent 参数。<br>
+示例:<br>
+mac: -javaagent:/Users/neo/jetbrains-agent.jar<br>
+linux: -javaagent:/home/neo/jetbrains-agent.jar<br>
+windows: -javaagent:C:\Users\neo\jetbrains-agent.jar<br>
+如果还是填错了，参考这篇⽂章编辑vmoptions补救：<br>
+https://intellij-support.jetbrains.com/hc/en-us/articles/206544519</p>
+<ul>
+<li>
+<p>重启你的pycharm。</p>
+</li>
+<li>
+<p>点击pycharm菜单 Help -&gt; Register... 或 Configure -&gt; Manage License...</p>
+</li>
+<li>
+<p><img src="https://img-blog.csdnimg.cn/20200505171109886.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0Nzc3ODEx,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br>
+⽀持两种注册⽅式：License server 和 Activation code:</p>
+</li>
+<li>
+<p>选择License server⽅式，地址填⼊： http://jetbrains-license-server 或者点击按钮： Discover Server 来⾃动填充地址。</p>
+</li>
+<li>
+<p>选择Activation code⽅式离线激活，请使⽤： ACTIVATION_CODE.txt 内的注册码激活。 !<br>
+<img src="https://img-blog.csdnimg.cn/20200505171335563.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0Nzc3ODEx,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br>
+如果激活窗⼝⼀直弹出（error 1653219），请去hosts⽂件⾥移除jetbrains相关的项⽬。如果你需要⾃定义License name，请访问：ttps://zhile.io/custom-license.html</p>
+</li>
+</ul>
+<h2 id="本项目只做学习研究之用不得用于商业用途"><em><strong>本项⽬只做学习研究之⽤,不得⽤于商业⽤途!</strong></em></h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Gridea for the first time]]></title>
         <id>https://guowanhui.github.io/post/using-gridea-for-the-first-time/</id>
